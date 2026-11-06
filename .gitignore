@@ -1,2 +1,10 @@
-__pycache__
+
+# Virtual environments
+.env/
+venv/
+.venv/
+
+# Environment variables and secrets
 .env
+.env.*
+
